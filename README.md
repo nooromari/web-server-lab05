@@ -30,13 +30,13 @@ Actual time needed to complete: 50 min
 
 Number and name of feature: Feature #3: Modify the contents
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1 hr
 
-Start time: 
+Start time: 8:00pm
 
-Finish time: 
+Finish time: 9:30pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 1 and half hr.
 
 
 ### Feature 4

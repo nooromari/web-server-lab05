@@ -461,8 +461,12 @@ button,
     }
 
         #main > section.dark {
+           
             color: #ddd;
-            color: rgba(255, 255, 255, 0.75);
+            color: rgba(224, 255, 244, 0.884);
+        }
+        .newColor{
+            background-color: rgba(38, 122, 118, 0.2);
         }
 
             #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -470,7 +474,7 @@ button,
             }
 
             #main > section.dark strong {
-                color: #fff;
+                color: rgb(53, 160, 155);
                 border-color: inherit;
             }
 
@@ -491,19 +495,19 @@ button,
 
         #main > section.one {
             background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-image: url("../../images/diego-ph-fIq0tET6llw-unsplash.jpg");
         }
 
         #main > section.two {
-            background-color: #f5fafa;
+            background-color: #fad3d346;
         }
 
         #main > section.three {
-            background-color: #ecf1f1;
+            background-color: #d3faf342;
         }
 
         #main > section.four {
-            background-color: #e8edec;
+            background-color: #d3faf198;
         }
 
 /* Wide */
